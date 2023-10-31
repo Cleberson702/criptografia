@@ -1,0 +1,47 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333; /* Cor do texto */
+}
+
+h1 {
+    text-align: center;
+    font-size: 28px; /* Tamanho da fonte */
+    margin: 20px 0; /* Espaçamento superior e inferior */
+    color: #333; /* Cor do texto */
+}
+
+form {
+    max-width: 800px; /* Largura máxima do formulário */
+    margin: 0 auto;
+    padding: 20px; /* Espaçamento interno */
+    background-color: #fff; /* Cor de fundo do formulário */
+    border: 1px solid #ddd; /* Borda */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px; /* Tamanho da fonte das etiquetas */
+    color: #333; /* Cor do texto */
+}
+
+input {
+    width: 100%;
+    padding: 10px; /* Espaçamento interno */
+    margin-top: 5px;
+    font-size: 16px; /* Tamanho da fonte dos campos de entrada */
+    border: 1px solid #ccc; /* Borda dos campos de entrada */
+}
+
+#result {
+    max-width: 800px; /* Largura máxima da área de resultados */
+    margin: 20px auto;
+    padding: 20px; /* Espaçamento interno */
+    border: 1px solid #ddd; /* Borda */
+    background-color: #fff; /* Cor de fundo da área de resultados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
+}
